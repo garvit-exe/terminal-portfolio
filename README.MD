@@ -1,11 +1,11 @@
 # Garvit's Terminal Portfolio
 
-This is a terminal-style portfolio website created by me. It's an interactive web terminal where visitors can explore different commands to learn more about me and his projects.
+This is a terminal-style portfolio website created by me. It's an interactive web terminal where visitors can explore different commands to learn more about me and my projects.
 
 ## Features
 
 - Terminal-style interface
-- Interactive commands to navigate and explore Garvit's portfolio
+- Interactive commands to navigate and explore my portfolio
 - Display of social media links and education details
 - Secret commands for additional information
 
@@ -23,7 +23,7 @@ Once the terminal interface loads, you can start typing commands to explore the 
 
 ## Usage
 
-The terminal supports various commands to navigate and explore different sections of Garvit's portfolio. Some of the available commands include:
+The terminal supports various commands to navigate and explore different sections of my portfolio. Some of the available commands include:
 
 - `about`: Display information about me
 - `social`: Display links to my social media profiles
@@ -31,11 +31,11 @@ The terminal supports various commands to navigate and explore different section
 - `edu`: Know about Garvit's education background
 - `help`: Get a list of available commands and their usage
 
-Feel free to explore and interact with the terminal to learn more about Garvit and his work!
+Feel free to explore and interact with the terminal to learn more about me and my work!
 
 ## Support
 
-For any inquiries or support, you can reach out to Garvit via his social media profiles or email.
+Feel free to contact me through my social media profiles or email for any questions or support.
 
 - LinkedIn: [Garvit Budhiraja](https://www.linkedin.com/in/garvit-budhiraja/)
 - Instagram: [garvit\_\_budhiraja](https://www.instagram.com/garvit__budhiraja/)
