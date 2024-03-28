@@ -64,7 +64,7 @@ b {
 }
 #liner::before {
   color: #0EF000;
-  content: "(base) visitor@Garvits-Portfolio:~$ ";
+  content: "(base) visitor@garvits-terminal-portfolio ~ % ";
 }
 #liner.password::before {
   content: "Password:";
