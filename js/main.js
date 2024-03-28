@@ -48,7 +48,7 @@ function enterKey(e) {
     if (e.keyCode == 13) {
       commands.push(command.innerHTML);
       git = commands.length;
-      addLine("(base) visitor@Garvits-Portfolio:~$ " + command.innerHTML, "no-animation", 0);
+      addLine("(base) visitor@garvits-terminal-portfolio ~ % " + command.innerHTML, "no-animation", 0);
       commander(command.innerHTML.toLowerCase());
       command.innerHTML = "";
       textarea.value = "";
