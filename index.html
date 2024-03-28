@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Garvit's Portfolio</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="css/styles.css" />
+    <link rel="icon" type="image/x-icon" href="assets/portfolio.png" title="portfolio icons" />
+</head>
+<body>
+    <div id="terminal">
+        <a id="before"></a>
+    </div>
+    <div id="command" onclick="document.getElementById('texter').focus();">
+      <label for="texter" id="texter-label">For a list of available commands, type <span class="command">'help'</span>.</label>
+        <textarea
+            type="text"
+            id="texter"
+            onkeyup="typeIt(this, event)"
+            onkeydown="typeIt(this, event); 
+                       moveIt(this.value.length, event)"
+            onkeypress="typeIt(this, event);"
+            autofocus
+        ></textarea>
+        <div id="liner">
+            <span id="typer"></span><b class="cursor" id="cursor">█</b>
+        </div>
+    </div>
+    <!-- Include JavaScript files -->
+    <script src="js/cursor.js"></script>
+    <script src="js/commands.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
