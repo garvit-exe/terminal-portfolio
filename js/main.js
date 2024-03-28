@@ -73,9 +73,11 @@ function enterKey(e) {
 function commander(cmd) {
   switch (cmd.toLowerCase()) {
     case "help":
+      addLine("Available commands:", "color2", 0);
       loopLines(help, "color2 margin", 80);
       break;
     case "help -l":
+      addLine("Available commands:", "color2", 0);
       loopLines(helpLong, "color2 margin", 80);
       break;
     case "about":
