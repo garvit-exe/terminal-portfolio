@@ -12,7 +12,7 @@ body {
 }
 ::selection {
   color: #211830;
-  background-color: #0EF000;
+  background-color: #ffffff;
 }
 ::-moz-selection {
   color: #211830;
@@ -48,7 +48,7 @@ b {
   }
 }
 #texter-label {
-  color: #B89076;
+  color: #FF8368;
 }
 #command {
   cursor: text;
@@ -106,21 +106,21 @@ p {
   color: #DCDCCC;
 }
 .color2 {
-  color: #B89076;
+  color: #FF8368;
 }
 .command {
   color: #00FFFF;
   text-shadow: 0 0 5px #00FFFF; 
 }
 .error {
-  color: #B89076;
+  color: #FF8368;
 }
 .white {
   color: #fff;
 }
 .inherit,
 a {
-  color: #9C8394;
+  color: #bf8aff;
 }
 a {
   text-decoration: inherit;
